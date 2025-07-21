@@ -1,4 +1,4 @@
-# 1. Robotics - MATLAB
+# Robotics - MATLAB
 
 ![Robotics MATLAB Banner](assets/LOGO.png)
 
