@@ -1,1 +1,6 @@
-# Robotics---MATLAB
+# Robotics - MATLAB
+This repository contains MATLAB scripts and tools related to robotics applications.
+
+## Description
+
+The purpose of this project is to apply and consolidate robotics knowledge acquired from academic books through practical MATLAB scripts.
