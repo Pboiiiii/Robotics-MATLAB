@@ -1,6 +1,6 @@
 # 1. Robotics - MATLAB
 
-![Robotics MATLAB Banner](assets/robotics_matlab_banner.png)
+![Robotics MATLAB Banner](assets/LOGO.png)
 
 ## Description
 
