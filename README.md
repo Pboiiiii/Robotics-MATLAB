@@ -8,4 +8,4 @@ The purpose of this project is to apply and consolidate robotics knowledge acqui
 
 ## Bibliography
 
-- *Fundamentos de Robótica* – Antonio Barrientos, Carlos Balaguer, Rafael Aracil, et al.
+1. *Fundamentos de Robótica* – Antonio Barrientos, Carlos Balaguer, Rafael Aracil, et al.
