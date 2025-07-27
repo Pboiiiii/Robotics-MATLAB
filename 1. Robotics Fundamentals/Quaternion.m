@@ -4,7 +4,7 @@ classdef Quaternion
     % subtraction, multiplication, conjugation and norma.
 
     properties
-        Value (1,4) double
+        Value (1,4)
     end
     
     % Checking if vector is a valid quaternion representation
