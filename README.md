@@ -9,3 +9,4 @@ The purpose of this repository is to apply and consolidate robotics knowledge ac
 ## Bibliography
 
 1. *Fundamentos de Robótica* – Antonio Barrientos, Carlos Balaguer, Rafael Aracil, et al.
+2. *Inteligencia Artificial Aplicada a la Robótica y Automatización* - Sossa Azuela, Juan Humberto y Reyes Cortés, Fernando.
